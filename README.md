@@ -24,3 +24,9 @@ def get_front_car_bounding_distance(self, vehicles):
 ```
 
 The main loop continuously updates the positions of the vehicles based on these sensor readings, redraws the road and scenery, and updates the display, creating a seamless simulation of traffic flow and adaptive cruise control.
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a92a9429-49c0-4cbc-9dc4-253ef7d06ecf" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/715b43a4-162d-4add-b68a-c7617bcfa975" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6118339-9a5c-44a3-bb3a-7368b7e9ead2" />
